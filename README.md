@@ -1,4 +1,4 @@
-# Technical-Communication C768
+# Technical Communication C768: TASK 1, 2, 3
 
 
 # TASK 1 CREATING A WHITE PAPER
