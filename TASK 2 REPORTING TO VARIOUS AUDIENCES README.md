@@ -1,0 +1,8 @@
+![TASK 2 REPORTING TO VARIOUS AUDIENCES-1](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/951698f8-ee1d-4181-89db-225b625c9c4e)
+![TASK 2 REPORTING TO VARIOUS AUDIENCES-2](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/46d70007-6f7b-4ed3-8663-fa9ca15684b5)
+![TASK 2 REPORTING TO VARIOUS AUDIENCES-3](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/c436eaa8-2da7-49f8-b853-e716265b4069)
+![TASK 2 REPORTING TO VARIOUS AUDIENCES-4](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/e376d432-fcb7-4f5c-9162-8f23767f4fea)
+![TASK 2 REPORTING TO VARIOUS AUDIENCES-5](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/2d23e59a-d9b4-49d2-bddf-c4ec13cb459d)
+![TASK 2 REPORTING TO VARIOUS AUDIENCES-6](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/2aea2edf-d501-4bc7-975c-94dd643ec9d7)
+![TASK 2 REPORTING TO VARIOUS AUDIENCES-7](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/08f3839b-11ea-4a81-92b1-ce192bd53196)
+![TASK 2 REPORTING TO VARIOUS AUDIENCES-8](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/382fd76f-bac6-4417-b2fe-6be5b71dbeaa)
