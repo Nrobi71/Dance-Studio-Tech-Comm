@@ -1,0 +1,6 @@
+![TASK 3 PANOPTO PRESENTATION-1](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/b1aeb9ad-7af1-4224-8e37-d4cde8038b66)
+![TASK 3 PANOPTO PRESENTATION-2](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/4d3d690c-93b8-4281-be5b-99e49161d1f1)
+![TASK 3 PANOPTO PRESENTATION-3](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/4d63aab0-4160-40cc-952b-b078aef3e79c)
+![TASK 3 PANOPTO PRESENTATION-4](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/4c4e92f0-e161-45c6-bd96-0de9d2d94550)
+![TASK 3 PANOPTO PRESENTATION-5](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/3946aee4-dad4-4af8-865a-93289b6cdadd)
+![TASK 3 PANOPTO PRESENTATION-6](https://github.com/Nrobi71/Dance-Studio-Tech-Comm/assets/96146103/3f4af7fe-a5f8-4251-8e67-465f1cdaa366)
