@@ -1,14 +1,14 @@
 # Technical Communication C768: TASK 1, 2, 3
 
 
-# TASK 1 CREATING A WHITE PAPER
+## TASK 1 CREATING A WHITE PAPER
 
-SCENARIO:
+### SCENARIO:
 
 You have recently been hired to work in your current field of study. Your new manager has informed you that the organization values innovation and asks that new employees write a white paper on an emerging technology, practice, or process in the field they studied in college. Once your manager reviews and approves the white paper, you will be asked to create several additional communications for different audiences: an executive summary for senior leadership, a press release and an FAQ that will both be distributed company-wide, and a multimedia presentation that you will deliver to colleagues in your department who share your level of technical expertise. You will also need to write an email inviting your colleagues to your multimedia presentation.
 
 
-REQUIREMENTS:
+### REQUIREMENTS:
 
 A.  Describe your organization, including the following information:
 
@@ -51,19 +51,19 @@ E.  Acknowledge sources, using in-text citations and references, for content tha
 F.  Demonstrate professional communication in the content and presentation of your submission.
 
 
-# TASK 2 REPORTING TO VARIOUS AUDIENCES
+## TASK 2 REPORTING TO VARIOUS AUDIENCES
 
-SCENARIO:
+### SCENARIO:
 
 You have recently been hired to work in your current field of study. Your new manager has informed you that the organization values innovation and asks that new employees write a white paper on an emerging technology, practice, or process in the field they studied in college. Once your manager reviews and approves the white paper, you will be asked to create several additional communications for different audiences: an executive summary for senior leadership, a press release and an FAQ that will both be distributed company-wide, and a multimedia presentation that you will deliver to colleagues in your department who share your level of technical expertise. You will also need to write an email inviting your colleagues to your multimedia presentation.
 
 
-ASSUMPTIONS:
+### ASSUMPTIONS:
 
 Task 1 has been successfully completed.
 
 
-REQUIREMENTS:
+### REQUIREMENTS:
 
 A.  Write an executive summary that covers all the main arguments in your white paper. The executive summary should comply with the requirements listed in the learning resource for executive summaries and should be about one page long.
 
@@ -99,19 +99,19 @@ D.  Acknowledge sources, using in-text citations and references or in-line attri
 
  
 
-# TASK 3 PANOPTO PRESENTATION
+## TASK 3 PANOPTO PRESENTATION
 
-SCENARIO:
+### SCENARIO:
 
 You have recently been hired to work in your current field of study. Your new manager has informed you that the organization values innovation and asks that new employees write a white paper on an emerging technology, practice, or process in the field they studied in college. Once your manager reviews and approves the white paper, you will be asked to create several additional communications for different audiences: an executive summary for senior leadership, a press release and an FAQ that will both be distributed company-wide, and a multimedia presentation that you will deliver to colleagues in your department who share your level of technical expertise. You will also need to write an email inviting your colleagues to your multimedia presentation.
 
 
-ASSUMPTIONS:
+### ASSUMPTIONS:
 
 Task 1 and Task 2 have been successfully completed.
 
 
-REQUIREMENTS:
+### REQUIREMENTS:
 
 A.  Write an email to your colleagues inviting them to attend a presentation based on your white paper. The email should comply with the requirements listed in the learning resource for emails.
 
